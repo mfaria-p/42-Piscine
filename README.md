@@ -1,4 +1,4 @@
-# **42Piscine**
+# **42 Piscine**
 
 The 42 Porto Piscine is a challenging, month-long program that immerses participants in a unique learning environment focused on self-teaching, teamwork, and problem-solving. During this time, I worked on coding projects, peer-reviewed others' work, and collaborated with fellow participants to overcome complex challenges.
 
