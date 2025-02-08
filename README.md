@@ -2,9 +2,9 @@
 
 The 42 Porto Piscine is a challenging, month-long program that immerses participants in a unique learning environment focused on self-teaching, teamwork, and problem-solving. During this time, I worked on coding projects, peer-reviewed others' work, and collaborated with fellow participants to overcome complex challenges.
 
-Through this experience, I learned to think more independently, manage my time effectively, and adapt to new problems quickly. Peer-to-peer learning helped me improve my ability to explain concepts and learn from different perspectives. The fast-paced environment also taught me resilience and perseverance.
+Through this experience, I learned __C__ and __shell scripting__, gaining a strong foundation in low-level programming and system operations. I also developed the ability to think independently, manage my time effectively, and adapt quickly to new problems. Peer-to-peer learning helped me improve my ability to explain concepts and learn from different perspectives. The fast-paced environment taught me resilience and perseverance.
 
-By the end of the Piscine, I had not only improved my coding skills but also developed a problem-solving mindset and a strong appreciation for teamwork. This experience was both intense and rewarding, preparing me for future challenges in programming.
+By the end of the Piscine, I had not only improved my technical skills but also developed a problem-solving mindset and a strong appreciation for teamwork. This experience was both intense and rewarding, preparing me for future challenges in programming.
 
 </br>
 <div align="center">
